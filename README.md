@@ -26,7 +26,7 @@ Bem-vinda(o) ao meu perfil no GitHub! Atualmente em transição para a área de 
 
 ## 📊 Estatísticas do GitHub
 
-![Lais GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Lais GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aquino-lais &show_icons=true&theme=radical)
 
 ---
 
