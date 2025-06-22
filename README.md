@@ -48,4 +48,5 @@ Bem-vinda(o) ao meu perfil no GitHub! Atualmente em transição para a área de 
 ---
 
 ### 🌐 Onde me encontrar
-[LinkedIn](www.linkedin.com/in/lais-aquino-dados)
+[Meu LinkedIn](https://www.linkedin.com/in/lais-aquino-dados)
+
