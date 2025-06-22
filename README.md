@@ -32,7 +32,7 @@ Bem-vinda(o) ao meu perfil no GitHub! Atualmente em transição para a área de 
 
 ## 📌 Meus Projetos
 
-- [🔗 Análise de financeira no Power BI]([LINK_DO_PROJETO](https://github.com/Aquino-lais/meu-projeto-analise-dados.git))
+- [🔗 Análise de financeira no Power BI](https://github.com/Aquino-lais/meu-projeto-analise-dados.git)
 - [📁 Projeto SQL de Consulta de Dados](LINK_DO_PROJETO)
 - [📈 Dashboard de Produtos](LINK_DO_PROJETO)
 
